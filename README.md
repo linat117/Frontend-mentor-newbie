@@ -9,7 +9,7 @@ A simple and responsive QR code card built with **HTML** and **Tailwind CSS**.
 ### 🌐 Preview
 
 #### 💻 Desktop
-![Desktop Preview](./images/desktop-view.png)
+![Desktop Preview](images/desktop-view.png)
 
 #### 📱 Mobile
 ![Mobile Preview](./images/mobile-view.png)
